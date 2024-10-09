@@ -6,7 +6,7 @@ simplified version of ChatGPT, an AI chatbot, implemented using a Batch script. 
 ChatGPT model, it demonstrates the potential for creating interactive applications with Batch scripting.
 
 Features
-Basic Conversation: Responds to common greetings like "hi" and "hello."
+Basic Conversation: Responds to common greetings like "hi" and "hello." 
 
 Predefined Knowledge: Answers questions such as "Who are you?" and "What can you do?"
 
