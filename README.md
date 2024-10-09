@@ -28,10 +28,12 @@ Start interacting with the chatbot!
 
 Requirements
 Windows Operating System (Batch scripts are designed for Windows command line)
+
 Windows 10/11
 
 Limitations
 This chatbot cannot access the internet or perform advanced natural language processing.
+
 Responses are limited to predefined keywords and phrases.
 
 Contributing
