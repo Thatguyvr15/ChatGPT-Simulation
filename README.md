@@ -7,10 +7,15 @@ ChatGPT model, it demonstrates the potential for creating interactive applicatio
 Features
 
 Basic Conversation: Responds to common greetings like "hi" and "hello."
+
 Predefined Knowledge: Answers questions such as "Who are you?" and "What can you do?"
+
 Time Awareness: Provides the current local time when asked.
+
 Help Responds to /help
+
 User-Friendly Interface: Simple command-line interface that prompts users for input.
+
 Lowercase Input Handling: Converts user input to lowercase for easier matching against predefined responses.
 
 To run the simplified ChatGPT:
