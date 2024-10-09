@@ -1,7 +1,8 @@
 Simplified ChatGPT in Batch Script
 
 Overview
-This project presents a simplified version of ChatGPT, an AI chatbot, implemented using a Batch script. The script simulates basic conversational capabilities by responding to predefined questions and statements. While it lacks the sophisticated natural language processing of the full ChatGPT model, it demonstrates the potential for creating interactive applications with Batch scripting.
+simplified version of ChatGPT, an AI chatbot, implemented using a Batch script. The script simulates basic conversational capabilities by responding to predefined questions and statements. While it lacks the sophisticated natural language processing of the full 
+ChatGPT model, it demonstrates the potential for creating interactive applications with Batch scripting.
 
 Features
 
